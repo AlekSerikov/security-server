@@ -1,0 +1,18 @@
+server:
+  port: 9005
+
+#amazon:
+#  aws:
+#    region : us-east-2
+#    accesskey: AKIARMAYTBEWSB6RJIHD
+#    secretkey: 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
+#  dynamodb:
+#    endpoint: dynamodb.us-east-2.amazonaws.com
+
+amazon:
+  aws:
+    region : us-east-2
+    accesskey: AKIARMAYTBEW3B4VYP6C
+    secretkey: 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
+  dynamodb:
+    endpoint: dynamodb.us-east-2.amazonaws.com
